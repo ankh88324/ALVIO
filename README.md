@@ -1,7 +1,7 @@
 # ALVIO
 Adaptive Line and Point Feature-based Visual Inertial Odometry for Robust Localization in Indoor Environments
 
-RA-L ICRA2020 ALVIO official page
+RA-L & ICRA2020 ALVIO official page
 
 ##Milestones
 
