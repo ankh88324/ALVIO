@@ -8,7 +8,7 @@ RA-L & ICRA2020 ALVIO official page
 ![overall_3](https://user-images.githubusercontent.com/19143504/65028817-a3907600-d977-11e9-9123-e4d4b718b33f.png)
 
 2. Block diagram illustrating the full pipeline of the proposed optical flow-based line tracker with an example image for each step.
-![line_extraction_algo_final](https://user-images.githubusercontent.com/19143504/65028856-b440ec00-d977-11e9-8271-28abcae9d7d0.png){: width="80%" height="80%"}
+![line_extraction_algo_final](https://user-images.githubusercontent.com/19143504/65028856-b440ec00-d977-11e9-8271-28abcae9d7d0.png width="100" height="100")
 
 ![FINAL_(3)](https://user-images.githubusercontent.com/19143504/65230306-9787ee00-db08-11e9-8c7d-5f043a0df806.gif)
 
@@ -22,7 +22,7 @@ The analysis was performed on two main categories:
 ![flow chart](https://user-images.githubusercontent.com/19143504/65228501-90131580-db05-11e9-9729-353deff82429.png)
 
 5. Sensitivity analysis w.r.t the location in the 2D image plane.
- ![f_9](https://user-images.githubusercontent.com/19143504/65228517-9608f680-db05-11e9-9bd8-656212792acc.png)
+![f_9](https://user-images.githubusercontent.com/19143504/65228517-9608f680-db05-11e9-9bd8-656212792acc.png)
 
 6. Sensitivity analysis w.r.t the illumination.
 ![I_3](https://user-images.githubusercontent.com/19143504/65228566-aa4cf380-db05-11e9-97d8-c32c6ce0b248.png)
@@ -31,4 +31,5 @@ The analysis was performed on two main categories:
 ![m_3](https://user-images.githubusercontent.com/19143504/65228591-b5a01f00-db05-11e9-98d4-faddd0c75319.png)
 
 8. EXPERIMENTAL RESULTS
+
 ![FINAL_(4)(5)(6)(7)](https://user-images.githubusercontent.com/19143504/65231204-2ba68500-db0a-11e9-9aa0-e6e8f6c4b449.gif)
