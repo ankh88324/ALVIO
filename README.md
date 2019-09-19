@@ -37,4 +37,4 @@ The analysis was performed on two main categories:
 
 8. EXPERIMENTAL RESULTS
 
-<img src="https://user-images.githubusercontent.com/19143504/65231204-2ba68500-db0a-11e9-9aa0-e6e8f6c4b449.gif" width="85%">
+<img src="https://user-images.githubusercontent.com/19143504/65237090-e0de3a80-db14-11e9-8b6e-7d4487aec122.gif" width="85%">
