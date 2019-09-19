@@ -3,18 +3,17 @@ Adaptive Line and Point Feature-based Visual Inertial Odometry for Robust Locali
 
 RA-L & ICRA2020 ALVIO official page
 
-##Milestones
-
-~9/15: Upload additional results. ~9/31: Code will be uploaded.
 
 1. Overall block diagram of ALVIO. ALVIO is an extension algorithm that considers the line feature in VIO to perform robust localization in indoor environment. The novelties of ALVIO include optical flow-based line tracker and the sensitivity-analysis-based adaptive feature selection algorithm.
 ![overall_3](https://user-images.githubusercontent.com/19143504/65028817-a3907600-d977-11e9-9123-e4d4b718b33f.png)
 
 2. Block diagram illustrating the full pipeline of the proposed optical flow-based line tracker with an example image for each step.
+![line_extraction_algo_final](https://user-images.githubusercontent.com/19143504/65028856-b440ec00-d977-11e9-8271-28abcae9d7d0.png){: width="80%" height="80%"}
+
 ![FINAL_(3)](https://user-images.githubusercontent.com/19143504/65230306-9787ee00-db08-11e9-8c7d-5f043a0df806.gif)
 
 3. Optical flow-based line feature tracking result.
-![fig_xx_line_tracker_result_final](https://user-images.githubusercontent.com/19143504/65030304-43e79a00-d97a-11e9-909b-7c9f8b78181e.png)
+![FINAL_(3)_result](https://user-images.githubusercontent.com/19143504/65230872-9e633080-db09-11e9-999e-5eb2bcc267b1.gif)
 
 4. Sensitivity analysis diagram. 
 The analysis was performed on two main categories: 
@@ -31,3 +30,5 @@ The analysis was performed on two main categories:
 7. Sensitivity analysis w.r.t the motion.
 ![m_3](https://user-images.githubusercontent.com/19143504/65228591-b5a01f00-db05-11e9-98d4-faddd0c75319.png)
 
+8. EXPERIMENTAL RESULTS
+![FINAL_(4)(5)(6)(7)](https://user-images.githubusercontent.com/19143504/65231204-2ba68500-db0a-11e9-9aa0-e6e8f6c4b449.gif)
