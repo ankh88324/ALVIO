@@ -8,7 +8,8 @@ RA-L & ICRA2020 ALVIO official page
 ![overall_3](https://user-images.githubusercontent.com/19143504/65028817-a3907600-d977-11e9-9123-e4d4b718b33f.png)
 
 2. Block diagram illustrating the full pipeline of the proposed optical flow-based line tracker with an example image for each step.
-![line_extraction_algo_final](https://user-images.githubusercontent.com/19143504/65028856-b440ec00-d977-11e9-8271-28abcae9d7d0.png width="100" height="100")
+![line_extraction_algo_final](https://user-images.githubusercontent.com/19143504/65028856-b440ec00-d977-11e9-8271-28abcae9d7d0.png)
+<img src="https://user-images.githubusercontent.com/19143504/65028856-b440ec00-d977-11e9-8271-28abcae9d7d0.png" width="60%">
 
 ![FINAL_(3)](https://user-images.githubusercontent.com/19143504/65230306-9787ee00-db08-11e9-8c7d-5f043a0df806.gif)
 
